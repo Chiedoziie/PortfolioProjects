@@ -95,6 +95,4 @@ order by 2,3
 
 
 
---Temp table
 
-insert into 
